@@ -10,7 +10,6 @@
 # Разворачивание
 
 ```bash
-cp .env.example .env
 # заполнить .env
 ```
 
